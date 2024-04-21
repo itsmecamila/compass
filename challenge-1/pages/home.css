@@ -5,6 +5,15 @@
 
 }
 
+
+.preenchimentoInvalido{
+    border: 2px solid red !important;
+}
+
+.preenchimentoValido{
+    border: 2px solid green !important;
+}
+
 .container{
     margin: 37px 147px 167px;
 }
@@ -291,6 +300,8 @@ nav a{
     text-decoration: none;
     border-radius: 10px;
 }
+
+
 
 .images p{
     margin-top: 15px;
