@@ -1,7 +1,7 @@
 
 # Challenge 1
 
-Hello! Esse foi o primeiro projeto que desenvolvi como Desenvolvedora Front-End na Compass UOL.
+Hello! Esse foi o primeiro projeto que desenvolvi como Desenvolvedora Front-End na Compass UOL. ;)
 
 ## Os requisitos **OBRIGATÓRIOS** eram:
 
