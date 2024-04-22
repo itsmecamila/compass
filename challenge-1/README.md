@@ -15,7 +15,7 @@ Hello! Esse foi o primeiro projeto que desenvolvi como Desenvolvedora Front-End 
 
 ## Os requisitos **OPCIONAIS** eram:
 
-- [] Aplicar responsividade em seu projeto.
+- [ ] Aplicar responsividade em seu projeto.
 - [x] Aplicar efeitos de Hover.
 - [x] Mensagem de confirmação ao enviar os dados do formulário corretamente.
 
