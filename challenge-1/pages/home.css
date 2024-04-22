@@ -63,6 +63,11 @@ nav a{
 }
 
 
+nav a:hover{
+    text-decoration: underline;
+}
+
+
 .icones{
     background-color: white;
     height: 65px;
